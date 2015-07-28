@@ -1,0 +1,6 @@
+---
+published: true
+title: Interesting...
+layout: post
+---
+This is interesting...
